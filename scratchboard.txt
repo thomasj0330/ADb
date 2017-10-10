@@ -1,0 +1,40 @@
+"""
+Washington
+Lincoln
+Theodore Roosevelt
+Ulysses S. Grant
+John Quincy Adams
+(none)
+
+HUB?
+college campus fictional
+
+layouts:
+- text/dialogue
+- hub
+- contextual menus (inventory/stats)
+
+stats:
+- patriotism - museum/american class
+- **********grammar
+- 
+
+3 parts:
+- know who they think they are
+- find out who they were and deal with that
+- come to terms with 
+
+no fail state
+play as girl (one character design)
+
+
+
+
+
+
+
+
+
+
+
+
